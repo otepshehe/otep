@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Madayegdeg City",
     "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/hehe.jpg",
-    "price": 90,
+    "price": 20,
     "priceCurrency": "PESOS",
     "lat": 16.598784,
     "lng": 120.313279
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Macho temple",
     "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/download.jpg",
-    "price": 200,
+    "price": 50,
     "priceCurrency": "PESOS",
     "lat": 16.621205,
     "lng": 120.317499
@@ -28,16 +28,16 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Tambay sa bahay nila otep",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
+    "price": 10000,
     "priceCurrency": "PESOS",
     "lat": 48.881840,
     "lng": 2.343371
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Sleep over sa balconahe",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "PESOS",
