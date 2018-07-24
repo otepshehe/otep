@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 10000,
     "priceCurrency": "PESOS",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.590576,
+    "lng": 120.323370
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "PESOS",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.595116,
+    "lng": 120.313172
   },
   {
     "id": 211,
