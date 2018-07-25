@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Chill sa bahay nila otep",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Banaue rice terraces",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/banawe_2018-06-28_18-33-03.jpg",
     "price": 90,
     "priceCurrency": "PESOS",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.923954,
+    "lng": 121.055640
   }
 ]
