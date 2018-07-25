@@ -55,12 +55,12 @@
   },
   {
     "id": 145,
-    "name": "Madayegdeg City",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/hehe.jpg",
-    "price": 20,
+    "name": "taal lake",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/taal-lake-philippines-luzon.jpg",
+    "price": 1300,
     "priceCurrency": "PESOS",
-    "lat": 16.600191,
-    "lng": 120.316639
+    "lat": 13.975034,
+    "lng": 121.022042
   },
   {
     "id": 148,
