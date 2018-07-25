@@ -4,7 +4,7 @@
     "name": "Madayegdeg City",
     "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/hehe.jpg",
     "price": 20,
-    "priceCurency": "PESOS",
+    "priceCurency": "km",
     "lat": 16.600191,
     "lng": 120.316639
   },
@@ -13,7 +13,7 @@
     "name": "eiffel tower",
     "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/paris-photo-699466.jpeg",
     "price": 2000,
-    "priceCurrency": "PESOS",
+    "priceCurrency": "km",
     "lat": 48.858370,
     "lng": 2.294481
   },
@@ -22,7 +22,7 @@
     "name": "Greatwall of china",
     "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/1200px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
     "price": 2678.59,
-    "priceCurrency": "PESOS",
+    "priceCurrency": "km",
     "lat": 40.434772,
     "lng": 116.566097
   },
