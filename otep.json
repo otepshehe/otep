@@ -10,12 +10,12 @@
   },
   {
     "id": 148,
-    "name": "Macho temple",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/download.jpg",
-    "price": 50,
+    "name": "eiffel tower",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/paris-photo-699466.jpeg",
+    "price": 1000,
     "priceCurrency": "PESOS",
-    "lat": 16.621205,
-    "lng": 120.317499
+    "lat": 48.858370,
+    "lng": 2.294481
   },
   {
     "id": 201,
