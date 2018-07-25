@@ -28,12 +28,12 @@
   },
   {
     "id": 205,
-    "name": "Tambay sa bahay nila otep",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Venice italy",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Venice-holidays-Italy-tourist-fines-1014065.jpg",
     "price": 10000,
     "priceCurrency": "PESOS",
-    "lat": 16.590576,
-    "lng": 120.323370
+    "lat": 45.440847,
+    "lng": 12.315515
   },
   {
     "id": 210,
