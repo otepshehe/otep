@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Sleep over sa balconahe",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Santorini-53c9e0dca77b.jpg",
+    "price": 12000,
     "priceCurrency": "PESOS",
-    "lat": 16.595116,
-    "lng": 120.313172
+    "lat": 11.967375,
+    "lng": 121.924815
   },
   {
     "id": 211,
