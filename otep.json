@@ -3,8 +3,8 @@
     "id": 145,
     "name": "Madayegdeg City",
     "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/hehe.jpg",
-    "km": 20,
-    "km": "km",
+    "price": 20,
+    "priceCurency": "PESOS",
     "lat": 16.600191,
     "lng": 120.316639
   },
