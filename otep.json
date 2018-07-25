@@ -20,11 +20,11 @@
   {
     "id": 201,
     "name": "Greatwall of china",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/IMMUKI-ISLAND.jpg",
-    "price": 150,
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/1200px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "price": 3000,
     "priceCurrency": "PESOS",
-    "lat": 16.802881,
-    "lng": 120.325512
+    "lat": 40.434772,
+    "lng": 116.566097
   },
   {
     "id": 205,
