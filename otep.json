@@ -64,39 +64,39 @@
   },
   {
     "id": 148,
-    "name": "eiffel tower",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/paris-photo-699466.jpeg",
-    "price": 1000,
+    "name": "Legaspi albay",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/albay.jpg",
+    "price": 14000,
     "priceCurrency": "PESOS",
-    "lat": 48.858370,
-    "lng": 2.294481
+    "lat": 13.139062,
+    "lng": 123.743800
   },
   {
     "id": 201,
-    "name": "Greatwall of china",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/1200px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "name": "Baguio",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Baguio-Lions-Head.jpg",
     "price": 3000,
     "priceCurrency": "PESOS",
-    "lat": 40.434772,
-    "lng": 116.566097
+    "lat": 16.367559,
+    "lng": 120.606050
   },
   {
     "id": 205,
-    "name": "Chocolate hills bohol",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Chocolate_Hills_overview.JPG",
-    "price": 10000,
+    "name": "SkyRanch",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/8%20Skyranch%20Pampanga.jpg",
+    "price": 11000,
     "priceCurrency": "PESOS",
-    "lat": 9.829708,
-    "lng": 124.139676
+    "lat": 120.606050,
+    "lng": 120.696825
   },
   {
     "id": 210,
-    "name": "Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/boracay-483535221_super.jpg",
+    "name": "magellans cross cebu",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/cross.jpg",
     "price": 12000,
     "priceCurrency": "PESOS",
-    "lat": 11.967375,
-    "lng": 121.924815
+    "lat": 10.293567,
+    "lng": 123.901949
   },
   {
     "id": 211,
