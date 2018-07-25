@@ -28,12 +28,12 @@
   },
   {
     "id": 205,
-    "name": "Venice italy",
-    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Venice-holidays-Italy-tourist-fines-1014065.jpg",
+    "name": "Chocolate hills bohol",
+    "imageUrl": "https://raw.githubusercontent.com/otepshehe/otep/master/Chocolate_Hills_overview.JPG",
     "price": 10000,
     "priceCurrency": "PESOS",
-    "lat": 45.440847,
-    "lng": 12.315515
+    "lat": 9.829708,
+    "lng": 124.139676
   },
   {
     "id": 210,
